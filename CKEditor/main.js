@@ -113,7 +113,7 @@ const LICENSE_KEY =
  */
 const DOCUMENT_ID = 'document-1';
 
-const CLOUD_SERVICES_TOKEN_URL =  'http://localhost:1337/';
+const CLOUD_SERVICES_TOKEN_URL =  'http://localhost:1337/'
 //	'https://v5hsvu1b_n8h.cke-cs.com/token/dev/b540a32fc6d6183d50f4ae94ef9f16d56296bc07ca88a7cef7ef2bf040c9?limit=10';
 const CLOUD_SERVICES_WEBSOCKET_URL = 'wss://v5hsvu1b_n8h.cke-cs.com/ws';
 

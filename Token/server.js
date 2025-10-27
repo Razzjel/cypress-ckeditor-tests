@@ -1,6 +1,5 @@
-const express = require ("express");
-const jwt = require ("jsonwebtoken");
-
+const express = require("express");
+const jwt = require("jsonwebtoken");
 const dotenv = require('dotenv').config();
 
 // Make accessKey and environmentID variables in .env file
